@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: '在BJFU学习',
+    title: 'P社战略研究',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        划水人
+        羴河一桶
       </>
     ),
   },
