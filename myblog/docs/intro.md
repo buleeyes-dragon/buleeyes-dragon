@@ -2,46 +2,43 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
-
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
+# 如何选择学习方向和目标
+## 方法
+### 一、问问自己想要什么？
+你的目标取决于你的目的。问问自己:**我是为了什么而学编程?**
+```js
+  -是因为看别人能够通过写代码做出自己的网站和软件，感觉很酷？
+  -是因为程序员令人心动的高薪？
+  -是因为对程序员的工作感到好奇？
+  -是因为想自己写个小软件来向女神表白？
+  -是因为误打误撞选了计算机专业，只求顺利毕业？
+  -是因为自己的账户被盗了，也想学习技术开拓自己的眼界？（绝不是大家报复）
+  -等等等等。。。。
 ```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
+  无论是为了什么而学习编程，都必然会有一个目的。如果没有目的，不讨厌编程的话，默认为“想赚钱”吧。
+```js
+  -如果你想写代码做出自己的作品？那么可以从Python这种简单易用的语言学起，方向是Python，目标就是用Python做出自己的软件，提高工作效率。
+  -如果你想快速找到工作拿到不错的薪资？那么就要优先考虑**需求量大、坑位多、主流、好入门**的方向，比如前端或Java后端，目标就是学好找工作要求的技术，从而找到一份工作。
+  -如果你只是想通过学编程来开拓眼界？那么可以从编程的发展、**基础知识**开始学起，比如计算机的组成结构、操作系统、网络安全等等，目标就是了解更多只是点，给自己长长见识。
 ```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### 二、问问自己现在适合什么？
+#### 1.时间
+:::tip时间
+  你有多少时间学习编程?
+:::
+#### 2.环境
+:::tip环境
+  学会利用环境，因地制宜。
+:::
+#### 3.能力与性格
+:::tip能力与性格
+  兴趣是最好的老师！选择一个和自己能力与性格相匹配的方向。
+:::
+### 三、获取更多信息
+```js
+1.利用百度搜索：新手入门编程学习什么编程语言？转行程序员，选择什么方向？......
+2.利用知乎和b站等分享平台：获取其他已经上岸的同学的真实经验分享，而不只是学校选专业书册上的一些死知识。
+3.去大公司的招聘官网查看不同的职位信息和对应的要求  
+```
+### 四、立即执行，广撒网
+入门的知识不会很难，但却能
