@@ -6,7 +6,7 @@ const config = {
     // 配置常量
   title: 'My Site',     // 网站的标题
   tagline: 'Dinosaurs are cool',    //  横幅副标题
-  url: 'https://your-docusaurus-test-site.com', // 当网站上线后的地址
+  url: 'https://github.com/buleeyes-dragon/buleeyes-dragon.github.io', // 当网站上线后的地址
   baseUrl: '/', // 默认路径
   onBrokenLinks: 'throw',   //  处理损坏的链接方式-抛出
   onBrokenMarkdownLinks: 'warn',    // 处理损坏的md链接-警告
@@ -14,8 +14,8 @@ const config = {
 
   // GitHub pages deployment config.    Github Pages部署配置
   // If you aren't using GitHub pages, you don't need these.    如果你不需要Github Pages，那么你不需要它
-  organizationName: 'facebook', // Usually your GitHub org/user name.   Github用户名
-  projectName: 'docusaurus', // Usually your repo name. 仓库名
+  organizationName: 'buleeyes-dragon', // Usually your GitHub org/user name.   Github用户名
+  projectName: 'buleeyes-dragon.github.io', // Usually your repo name. 仓库名
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
