@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');   // 深�
 /** @type {import('@docusaurus/types').Config} */   
 const config = {
     // 配置常量
-  title: 'My Site',     // 网站的标题
+  title: '我的学习网站',     // 网站的标题
   tagline: 'Dinosaurs are cool',    //  横幅副标题
   url: 'https://github.com/buleeyes-dragon/buleeyes-dragon.github.io', // 当网站上线后的地址
   baseUrl: '/', // 默认路径
