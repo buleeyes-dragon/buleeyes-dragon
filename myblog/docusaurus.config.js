@@ -7,7 +7,7 @@ const config = {
   title: '我的学习网站',     // 网站的标题
   tagline: 'Dinosaurs are cool',    //  横幅副标题
   url: 'https://renshen.netlify.app', // 当网站上线后的地址
-  baseUrl: '/', // 默认路径
+  baseUrl: 'https://github.com/buleeyes-dragon/buleeyes-dragon.github.io', // 默认路径
   onBrokenLinks: 'throw',   //  处理损坏的链接方式-抛出
   onBrokenMarkdownLinks: 'warn',    // 处理损坏的md链接-警告
   favicon: 'img/favicon.ico',   // logo地址
