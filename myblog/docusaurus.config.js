@@ -6,7 +6,7 @@ const config = {
     // 配置常量
   title: '我的学习网站',     // 网站的标题
   tagline: 'Dinosaurs are cool',    //  横幅副标题
-  url: 'https://renshen.vercel.app/', // 当网站上线后的地址
+  url: 'https://renshen.netlify.app/', // 当网站上线后的地址
   baseUrl: '/', // 默认路径
   onBrokenLinks: 'throw',   //  处理损坏的链接方式-抛出
   onBrokenMarkdownLinks: 'warn',    // 处理损坏的md链接-警告
