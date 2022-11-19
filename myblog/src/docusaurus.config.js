@@ -72,7 +72,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/buleeyes-dragon/buleeyes-dragon.github.io',
+            href: '',
             label: 'GitHub',
             position: 'right',
           },
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/buleeyes-dragon/buleeyes-dragon.github.io',
               },
             ],
           },
