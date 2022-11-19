@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/buleeyes-dragon/buleeyes-dragon.github.io',
               },
             ],
           },
